@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import { initialize, proceed } from "./questions.js";
 import chalk from "chalk";
 // Game Variables
