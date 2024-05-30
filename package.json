@@ -1,5 +1,5 @@
 {
-  "name": "adventure-game-cli",
+  "name": "adventue_game-cli",
   "version": "1.0.1",
   "description": "A simple command-line dungeon adventure game where you fight enemies, manage health, and collect potions.  ",
   "main": "main.js",
