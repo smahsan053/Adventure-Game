@@ -1,10 +1,10 @@
 {
-  "name": "adventue_game-cli",
-  "version": "1.0.0",
+  "name": "adventure-game-cli",
+  "version": "1.0.1",
   "description": "A simple command-line dungeon adventure game where you fight enemies, manage health, and collect potions.  ",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
